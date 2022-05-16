@@ -1,0 +1,17 @@
+nav{
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    max-width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 50px;
+}
+#background{
+    height: 200px;
+}
+body{
+    background-color: lavender;
+}
